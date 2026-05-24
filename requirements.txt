@@ -1,7 +1,6 @@
-pandas==3.0.2
-numpy==2.4.4
+numpy
+pandas
+tensorflow
 scikit-learn
-transformers==5.5.4
-datasets==4.8.4
-torch==2.11.0
-tqdm
+matplotlib
+jupyter
