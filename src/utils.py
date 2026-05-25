@@ -1,6 +1,5 @@
 import os
 
-
 def ensure_dirs():
     folders = [
         "data/processed",
